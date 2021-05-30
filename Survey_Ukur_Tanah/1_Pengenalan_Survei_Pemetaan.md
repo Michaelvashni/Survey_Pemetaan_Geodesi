@@ -20,7 +20,7 @@ Herodotus mencatat bahwa Sesostris membagi lahan di Mesir menjadi petak-petak de
 
 * Sekitar tahun 200 sebelum Masehi
 Sejarah Yunani mencatat mengenai Erastosthenes yang mampu melakukan perhitungan mengenai ukuran sebenarnya bumi. Erastosthenes melakukan perhitungan pada kota Alexandria dan kota Syene di Mesir yang diperkirakan berada pada bujur yang sama. Beliau melakukan pengamatan pada waktu siang hari pada musim panas solstice (hari dimana waktu siang hari terpanjang di musim panas), dimana matahari berada tepat di atas Syene. Hal ini diketahui dimana pada saat itu sinar matahari memantul dari dasar sebuah sumur vertikal. Beliau berargumen bahwa pada saat yang sama, matahari yang ada di Alexandria memiliki kemiringan sudut yang berbeda pada sumur vertikal. Berdasarkan perbedaan sudut tersebut, Erastosthenes melakukan perhitungan keliling dari bumi sekitar 25.000 mil.
-![[ModulIUT_Erasthosthenes.png]]
+![Erasthotenes](Gambar/ModulIUT_Erasthosthenes.png)
 Sumber : (Ghilani dan Wolf, 2015) 
 
 * Sekitar tahun 120 sebelum Masehi
@@ -28,7 +28,7 @@ Masa dimana bangsa Yunani mulai mengembangkan ilmu geometri. Heron menerapkan ko
 
 * sekitar tahun 40 - 103 Masehi
 Frontius, seorang insinyur sipil terkenal berbangsa Romawi mengenalkan pentingnya survei pemetaan pada bidang konstruksi. Pada masa ini dikenalkan *the groma* yang digunakan untuk pengamatan dilengkapi dengan unting-unting.
-![[ModulIUT_TheDiopter_TheGroma.png]]
+![Diopter_dan_Groma](Gambar/ModulIUT_TheDiopter_TheGroma.png)
 Sumber : (Ghilani dan Wolf, 2015) 
 
 * Abad ke-6 Masehi
